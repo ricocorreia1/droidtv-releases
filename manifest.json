@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.3.0/app-release.apk",
-  "notes": "Primeira release com OTA. Filtro de legendados em Filmes/Series, dedup de catálogo, fallback de EPG via get_short_epg, banner sticky em recovery."
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.4.0/app-release.apk",
+  "notes": "Teste do flow OTA — sem mudanças funcionais, só bumpa versão pra exercitar o dialog de update."
 }
