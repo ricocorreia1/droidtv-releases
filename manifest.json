@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.11.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.11.0/app-release.apk",
-  "notes": "Home: pede permissão de instalação de apps desconhecidos ao abrir o app e abre direto a tela de configuração se faltar."
+  "versionCode": 12,
+  "versionName": "0.12.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.12.0/app-release.apk",
+  "notes": "TV ao Vivo: ícone de relógio nos slots A SEGUIR volta a aparecer ao agendar (estava comparando com o canal tocando em vez do canal previsto)."
 }
