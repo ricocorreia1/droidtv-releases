@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.8.0/app-release.apk",
-  "notes": "Help: conteúdo do painel direito clipado ao fundo arredondado (sem mais escape nos cantos). Cache-bust no manifest pra evitar stale do CDN."
+  "versionCode": 9,
+  "versionName": "0.9.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.9.0/app-release.apk",
+  "notes": "TV ao Vivo: limite máximo de 42% da largura para coluna direita — balanceia melhor em Fold aberto e tablets, sem mudança no celular."
 }
