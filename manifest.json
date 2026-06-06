@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.10.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.10.0/app-release.apk",
-  "notes": "Ajuda: navegação D-pad UP/DOWN trapada na lista de itens — não pula mais pro botão de voltar nem pro chip de versão."
+  "versionCode": 11,
+  "versionName": "0.11.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.11.0/app-release.apk",
+  "notes": "Home: pede permissão de instalação de apps desconhecidos ao abrir o app e abre direto a tela de configuração se faltar."
 }
