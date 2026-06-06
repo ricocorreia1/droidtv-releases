@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.5.0/app-release.apk",
-  "notes": "OTA test: parser Gson com SerializedName + R8 keep, botão manual no Help, logs DroidTV-OTA pra diagnóstico."
+  "versionCode": 6,
+  "versionName": "0.6.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.6.0/app-release.apk",
+  "notes": "Item dedicado Verificar atualização em Ajuda > Sobre o app — botão Verificar agora dispara o mesmo fluxo do auto-check."
 }
