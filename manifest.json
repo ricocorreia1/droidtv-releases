@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.6.0/app-release.apk",
-  "notes": "Item dedicado Verificar atualização em Ajuda > Sobre o app — botão Verificar agora dispara o mesmo fluxo do auto-check."
+  "versionCode": 7,
+  "versionName": "0.7.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.7.0/app-release.apk",
+  "notes": "Ajuda: scroll do painel direito com scrollbar visível, foco D-pad (RIGHT entra, LEFT volta) e quebra de URLs longas no detail."
 }
