@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "0.19.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.19.0/app-release.apk",
-  "notes": "Ícone de Ajuda no header de TV ao Vivo, Filmes e Séries, ao lado esquerdo do botão de Configurações."
+  "versionCode": 20,
+  "versionName": "0.20.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.20.0/app-release.apk",
+  "notes": "OTA: instalação retomada automaticamente após você ativar a permissão 'Instalar apps desconhecidos'. Conserta o bug em que era preciso repetir o procedimento na TV para finalizar a atualização."
 }
