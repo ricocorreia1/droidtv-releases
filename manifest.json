@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "0.25.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.25.0/app-release.apk",
-  "notes": "Sync: Toast de Filmes / Séries / Canais atualizados agora mostra a contagem real persistida no banco — o número bate exatamente com o que aparece em TODOS. Conserta divergência observada em TVs (memory pressure)."
+  "versionCode": 26,
+  "versionName": "0.26.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.26.0/app-release.apk",
+  "notes": "Sync: Toast pós-sincronização agora distingue itens visíveis e ocultos pelo controle parental. Com parental ativo aparece 'Filmes atualizados (27473 visíveis + 1341 ocultos)' — o número visível bate exatamente com o que TODOS mostra em FILMES/SÉRIES."
 }
