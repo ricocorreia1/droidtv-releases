@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "0.24.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.24.0/app-release.apk",
-  "notes": "Home: data de cadastro nos cards Recém-adicionados / Mais Bem Avaliados (hoje / ontem / Nd atrás / dd/MM/yyyy). Conserta o ano '1969' que aparecia nos Mais Bem Avaliados. Cada visita à Home rotaciona a janela de 6 cards num pool de 40-60 — sempre cumprindo a regra da seção. OTA instala em uma única passagem após o usuário autorizar 'apps desconhecidos', sem precisar refazer o procedimento na TV."
+  "versionCode": 25,
+  "versionName": "0.25.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.25.0/app-release.apk",
+  "notes": "Sync: Toast de Filmes / Séries / Canais atualizados agora mostra a contagem real persistida no banco — o número bate exatamente com o que aparece em TODOS. Conserta divergência observada em TVs (memory pressure)."
 }
