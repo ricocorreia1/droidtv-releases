@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.12.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.12.0/app-release.apk",
-  "notes": "TV ao Vivo: ícone de relógio nos slots A SEGUIR volta a aparecer ao agendar (estava comparando com o canal tocando em vez do canal previsto)."
+  "versionCode": 18,
+  "versionName": "0.18.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.18.0/app-release.apk",
+  "notes": "Fonte EPG externa (XMLTV / .xml.gz) com fuzzy match por nome de canal e suporte a prefixos 'Cidade/UF '. Status do EPG em Configurações: testa painel (xmltv.php + get_short_epg) por conteúdo e também a fonte externa, em linha separada. Botão de Configurações no header de TV ao Vivo, Filmes e Séries."
 }
