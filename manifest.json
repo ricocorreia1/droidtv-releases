@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "0.20.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.20.0/app-release.apk",
-  "notes": "OTA: instalação retomada automaticamente após você ativar a permissão 'Instalar apps desconhecidos'. Conserta o bug em que era preciso repetir o procedimento na TV para finalizar a atualização."
+  "versionCode": 21,
+  "versionName": "0.21.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.21.0/app-release.apk",
+  "notes": "Suporte / Logs locais com exportação opt-in: o app grava logs no aparelho (com sanitização de credenciais) e você decide se exporta o relatório para reportar um problema. Nada sai automaticamente. Termos de aceite atualizados para refletir a nova função."
 }
