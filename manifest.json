@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "0.21.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.21.0/app-release.apk",
-  "notes": "Suporte / Logs locais com exportação opt-in: o app grava logs no aparelho (com sanitização de credenciais) e você decide se exporta o relatório para reportar um problema. Nada sai automaticamente. Termos de aceite atualizados para refletir a nova função."
+  "versionCode": 22,
+  "versionName": "0.22.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.22.0/app-release.apk",
+  "notes": "TV ao Vivo: long-press numa categoria fixa no topo (logo abaixo de HISTÓRICO e AGENDADOS), com ícone 📌. Long-press de novo desafixa. Persistido por perfil."
 }
