@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "0.22.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.22.0/app-release.apk",
-  "notes": "TV ao Vivo: long-press numa categoria fixa no topo (logo abaixo de HISTÓRICO e AGENDADOS), com ícone 📌. Long-press de novo desafixa. Persistido por perfil."
+  "versionCode": 24,
+  "versionName": "0.24.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.24.0/app-release.apk",
+  "notes": "Home: data de cadastro nos cards Recém-adicionados / Mais Bem Avaliados (hoje / ontem / Nd atrás / dd/MM/yyyy). Conserta o ano '1969' que aparecia nos Mais Bem Avaliados. Cada visita à Home rotaciona a janela de 6 cards num pool de 40-60 — sempre cumprindo a regra da seção. OTA instala em uma única passagem após o usuário autorizar 'apps desconhecidos', sem precisar refazer o procedimento na TV."
 }
