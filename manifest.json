@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "0.26.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.26.0/app-release.apk",
-  "notes": "Sync: Toast pós-sincronização agora distingue itens visíveis e ocultos pelo controle parental. Com parental ativo aparece 'Filmes atualizados (27473 visíveis + 1341 ocultos)' — o número visível bate exatamente com o que TODOS mostra em FILMES/SÉRIES."
+  "versionCode": 27,
+  "versionName": "0.27.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.27.0/app-release.apk",
+  "notes": "Status do EPG em Configurações agora mostra 3 linhas independentes (XMLTV em massa, EPG por canal, Fonte externa). Corrige falso negativo do XMLTV: o probe usava User-Agent que o painel bloqueava e desistia em 128 KB sem encontrar <programme> em XMLTVs grandes. Agora lê em streaming até 2 MB e usa o User-Agent Mozilla padrão."
 }
