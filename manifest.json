@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "0.28.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.28.0/app-release.apk",
-  "notes": "Sync: corrige bug em que uma falha temporária (4xx) do xmltv.php apagava o EPG e bloqueava o auto-retry. Agora preserva os dados antigos até um download novo dar certo, e força ressincronização quando a tabela EPG está vazia (recupera perfis que foram esvaziados por builds anteriores). Logs detalhados em DroidTV-Sync ajudam a diagnosticar falsos negativos."
+  "versionCode": 29,
+  "versionName": "0.29.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.29.0/app-release.apk",
+  "notes": "Guia de TV: prioriza canais que realmente têm programação no XMLTV. Antes, canais 'placeholder' (FAST / PlutoTV) sem programas estavam ocupando os 200 slots e deixando os canais brasileiros (Globo, Band, SBT, Jovem Pan etc.) fora do guia. Agora os canais com programmes na janela do dia vão pra frente da fila, valendo tanto para a fonte do painel quanto a externa."
 }
