@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "0.31.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.31.2/app-release.apk",
-  "notes": "OTA: detecta launches silenciosos do PackageInstaller. Após o startActivity, aguarda 1s e verifica se o app perdeu foreground. Se não perdeu = a tela do instalador nunca apareceu (silent no-op no Google TV / Chromecast 3). Tenta novamente até 4 vezes antes de mostrar o diálogo 'Instalar agora'."
+  "versionCode": 34,
+  "versionName": "0.31.3",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.31.3/app-release.apk",
+  "notes": "OTA: baixa o APK duas vezes em sequência (com 1s de espera entre os downloads) antes de chamar o instalador. Reproduz no app o procedimento manual que o usuário do Chromecast 3 fazia para o PackageInstaller aparecer na segunda tentativa, sem precisar de duas voltas manuais."
 }
