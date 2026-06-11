@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "0.31.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.31.1/app-release.apk",
-  "notes": "OTA hotfix para Chromecast 3 / Google TV: o caminho 'permissão já concedida' também passa por retry + dialog fallback. Cobre a janela em que o PackageInstaller demora a ficar pronto e o ACTION_VIEW caía em silêncio na primeira tentativa."
+  "versionCode": 33,
+  "versionName": "0.31.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.31.2/app-release.apk",
+  "notes": "OTA: detecta launches silenciosos do PackageInstaller. Após o startActivity, aguarda 1s e verifica se o app perdeu foreground. Se não perdeu = a tela do instalador nunca apareceu (silent no-op no Google TV / Chromecast 3). Tenta novamente até 4 vezes antes de mostrar o diálogo 'Instalar agora'."
 }
