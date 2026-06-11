@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "0.27.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.27.0/app-release.apk",
-  "notes": "Status do EPG em Configurações agora mostra 3 linhas independentes (XMLTV em massa, EPG por canal, Fonte externa). Corrige falso negativo do XMLTV: o probe usava User-Agent que o painel bloqueava e desistia em 128 KB sem encontrar <programme> em XMLTVs grandes. Agora lê em streaming até 2 MB e usa o User-Agent Mozilla padrão."
+  "versionCode": 28,
+  "versionName": "0.28.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.28.0/app-release.apk",
+  "notes": "Sync: corrige bug em que uma falha temporária (4xx) do xmltv.php apagava o EPG e bloqueava o auto-retry. Agora preserva os dados antigos até um download novo dar certo, e força ressincronização quando a tabela EPG está vazia (recupera perfis que foram esvaziados por builds anteriores). Logs detalhados em DroidTV-Sync ajudam a diagnosticar falsos negativos."
 }
