@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "0.30.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.30.0/app-release.apk",
-  "notes": "OTA: conserta o caso em que a instalação não acontecia na primeira passagem na TV. O cache da permissão 'instalar apps desconhecidos' demorava ~700ms pra refletir no Android TV — bem quando o app voltava da Settings — e o app desistia em silêncio. Agora tenta direto, faz um retry após 800ms, e como último recurso mostra um diálogo 'Atualização pronta · Instalar agora' pra o usuário concluir sem precisar baixar de novo. A partir da v0.30.0, as próximas atualizações devem completar em uma única passagem."
+  "versionCode": 31,
+  "versionName": "0.31.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.31.0/app-release.apk",
+  "notes": "OTA: a verificação de atualização agora roda em segundo plano também ao entrar / sair de TV ao Vivo, Filmes e Séries. Throttle global de 15 min impede chamadas repetidas; tudo em IO thread sem afetar transições, abertura de players ou navegação."
 }
