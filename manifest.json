@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "0.31.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.31.0/app-release.apk",
-  "notes": "OTA: a verificação de atualização agora roda em segundo plano também ao entrar / sair de TV ao Vivo, Filmes e Séries. Throttle global de 15 min impede chamadas repetidas; tudo em IO thread sem afetar transições, abertura de players ou navegação."
+  "versionCode": 32,
+  "versionName": "0.31.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.31.1/app-release.apk",
+  "notes": "OTA hotfix para Chromecast 3 / Google TV: o caminho 'permissão já concedida' também passa por retry + dialog fallback. Cobre a janela em que o PackageInstaller demora a ficar pronto e o ACTION_VIEW caía em silêncio na primeira tentativa."
 }
