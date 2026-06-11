@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "0.29.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.29.0/app-release.apk",
-  "notes": "Guia de TV: prioriza canais que realmente têm programação no XMLTV. Antes, canais 'placeholder' (FAST / PlutoTV) sem programas estavam ocupando os 200 slots e deixando os canais brasileiros (Globo, Band, SBT, Jovem Pan etc.) fora do guia. Agora os canais com programmes na janela do dia vão pra frente da fila, valendo tanto para a fonte do painel quanto a externa."
+  "versionCode": 30,
+  "versionName": "0.30.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.30.0/app-release.apk",
+  "notes": "OTA: conserta o caso em que a instalação não acontecia na primeira passagem na TV. O cache da permissão 'instalar apps desconhecidos' demorava ~700ms pra refletir no Android TV — bem quando o app voltava da Settings — e o app desistia em silêncio. Agora tenta direto, faz um retry após 800ms, e como último recurso mostra um diálogo 'Atualização pronta · Instalar agora' pra o usuário concluir sem precisar baixar de novo. A partir da v0.30.0, as próximas atualizações devem completar em uma única passagem."
 }
