@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "0.31.3",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.31.3/app-release.apk",
-  "notes": "OTA: baixa o APK duas vezes em sequência (com 1s de espera entre os downloads) antes de chamar o instalador. Reproduz no app o procedimento manual que o usuário do Chromecast 3 fazia para o PackageInstaller aparecer na segunda tentativa, sem precisar de duas voltas manuais."
+  "versionCode": 35,
+  "versionName": "0.32.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.32.0/app-release.apk",
+  "notes": "Long-press num perfil abre menu com Editar / Excluir (corrige falta de acesso pelo controle da TV). No fullscreen de TV ao Vivo, ◀ sem HUD abre lista lateral de canais da categoria para trocar sem sair do player (▶/voltar fecha, auto-hide em 6s). Botões do Guia de Programação destacam em azul quando focados. Ajuda atualizada com as novas funcionalidades."
 }
