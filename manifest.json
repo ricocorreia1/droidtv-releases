@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "0.34.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.34.0/app-release.apk",
-  "notes": "Animações de minimizar/maximizar o player ao vivo + header da Home agora têm duração proporcional ao perfil do aparelho: TOP mantém o efeito Apple suave de 1,5s; MEDIUM corta pra metade; LOW (TVs modestas como TCL Android 9) usa 0,25× e pula a animação de cantos arredondados frame-a-frame, que era a maior fonte de jank em GPUs fracas."
+  "versionCode": 38,
+  "versionName": "0.34.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.34.1/app-release.apk",
+  "notes": "OTA: aumenta o intervalo entre os dois downloads automáticos de 1s para 3s. Dá mais tempo para o PackageInstaller do Google TV / Chromecast ficar pronto antes do app chamar a instalação."
 }
