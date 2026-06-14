@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "0.32.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.32.0/app-release.apk",
-  "notes": "Long-press num perfil abre menu com Editar / Excluir (corrige falta de acesso pelo controle da TV). No fullscreen de TV ao Vivo, ◀ sem HUD abre lista lateral de canais da categoria para trocar sem sair do player (▶/voltar fecha, auto-hide em 6s). Botões do Guia de Programação destacam em azul quando focados. Ajuda atualizada com as novas funcionalidades."
+  "versionCode": 36,
+  "versionName": "0.33.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.33.0/app-release.apk",
+  "notes": "Perfil de desempenho automático por aparelho (ÓTIMO / BOM / MODESTO), calculado a partir de RAM, núcleos e frequência da CPU. Reduz pools de cards e buffer em aparelhos modestos sem o usuário precisar configurar. Chromecast com Google TV (HD e 4K) sempre cai em ÓTIMO. Card próprio no menu Configurações mostra o tier detectado, score e detalhamento. Conserta o efeito de cantos arredondados quebrados no foco em Android 9, usando drawables retangulares automaticamente naquela versão."
 }
