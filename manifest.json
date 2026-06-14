@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "0.33.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.33.0/app-release.apk",
-  "notes": "Perfil de desempenho automático por aparelho (ÓTIMO / BOM / MODESTO), calculado a partir de RAM, núcleos e frequência da CPU. Reduz pools de cards e buffer em aparelhos modestos sem o usuário precisar configurar. Chromecast com Google TV (HD e 4K) sempre cai em ÓTIMO. Card próprio no menu Configurações mostra o tier detectado, score e detalhamento. Conserta o efeito de cantos arredondados quebrados no foco em Android 9, usando drawables retangulares automaticamente naquela versão."
+  "versionCode": 37,
+  "versionName": "0.34.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.34.0/app-release.apk",
+  "notes": "Animações de minimizar/maximizar o player ao vivo + header da Home agora têm duração proporcional ao perfil do aparelho: TOP mantém o efeito Apple suave de 1,5s; MEDIUM corta pra metade; LOW (TVs modestas como TCL Android 9) usa 0,25× e pula a animação de cantos arredondados frame-a-frame, que era a maior fonte de jank em GPUs fracas."
 }
