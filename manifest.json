@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "0.35.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.35.1/app-release.apk",
-  "notes": "OTA: blindagem do duplo download. Sequência inteira protegida por try/catch — qualquer exceção encerra o diálogo com Toast claro em vez de travar silenciosamente. Logs estruturados (STAGE=DOWNLOAD_1_OF_2 / GAP_3S / DOWNLOAD_2_OF_2) permitem confirmar via logcat se as duas passagens rodaram de fato."
+  "versionCode": 42,
+  "versionName": "0.36.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.36.0/app-release.apk",
+  "notes": "Players de Filmes e Séries: menu de proporção expandido para igualar o IPTV Smarters. O botão agora cicla AJUSTAR → ESTICAR → ZOOM → 16:9 → 4:3 → 18:9 → 21:9 → 2.35:1 → 1.85:1. As proporções fixas sobrescrevem o aspect ratio que o servidor envia — útil quando o stream declara errado (caso comum em IPTV) e os 3 modos nativos saem idênticos."
 }
