@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "0.37.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.37.0/app-release.apk",
-  "notes": "OTA: o app faz automaticamente o ciclo completo de download + install duas vezes se a primeira não abrir o modal do instalador. Detecta o modal pelo onPause da Activity (sinal confiável). Você só clica em 'Baixar e instalar' uma vez — o app cuida do resto, simulando exatamente o procedimento manual que sempre funcionava."
+  "versionCode": 46,
+  "versionName": "0.37.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.37.1/app-release.apk",
+  "notes": "Release de teste para validar o fluxo OTA com auto-retry de ciclo completo. Mesmo código da v0.37.0, apenas versionCode bumpado para 46."
 }
