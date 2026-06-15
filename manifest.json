@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "0.34.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.34.1/app-release.apk",
-  "notes": "OTA: aumenta o intervalo entre os dois downloads automáticos de 1s para 3s. Dá mais tempo para o PackageInstaller do Google TV / Chromecast ficar pronto antes do app chamar a instalação."
+  "versionCode": 39,
+  "versionName": "0.34.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.34.2/app-release.apk",
+  "notes": "OTA: o duplo download agora exibe rótulos '(1 de 2)' e '(2 de 2)' no corpo do diálogo, e um estado 'Aguardando o sistema…' durante a pausa de 3s — antes a transição era sutil demais e parecia que só baixava uma vez. Logs em DroidTV-OTA marcam início, fim e tamanho de cada passagem para diagnóstico."
 }
