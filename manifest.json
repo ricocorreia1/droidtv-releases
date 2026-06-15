@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "0.37.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.37.1/app-release.apk",
-  "notes": "Release de teste para validar o fluxo OTA com auto-retry de ciclo completo. Mesmo código da v0.37.0, apenas versionCode bumpado para 46."
+  "versionCode": 47,
+  "versionName": "0.37.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.37.2/app-release.apk",
+  "notes": "OTA: remove o loop de retry legado (attemptInstall) que estava brigando com o novo ciclo automático e impedindo a segunda passagem de rodar. Agora launchInstall faz uma única tentativa e a decisão de tentar de novo (com novo download) fica somente no runCycle, observando onPause como sinal confiável."
 }
