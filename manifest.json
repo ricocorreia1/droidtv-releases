@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "0.34.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.34.2/app-release.apk",
-  "notes": "OTA: o duplo download agora exibe rótulos '(1 de 2)' e '(2 de 2)' no corpo do diálogo, e um estado 'Aguardando o sistema…' durante a pausa de 3s — antes a transição era sutil demais e parecia que só baixava uma vez. Logs em DroidTV-OTA marcam início, fim e tamanho de cada passagem para diagnóstico."
+  "versionCode": 40,
+  "versionName": "0.35.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.35.0/app-release.apk",
+  "notes": "Players de Filmes e Séries: o botão de aspecto (canto superior direito) agora tem foco claramente visível na TV — fundo escuro quando idle, azul accent com borda branca quando focado, e cresceu de 48dp para 56dp. Ao trocar o modo aparece um indicador grande no centro 'AJUSTAR / ESTICAR / ZOOM' por 1,5s para você ter feedback inequívoco mesmo em conteúdo 16:9 onde alguns modos ficam visualmente iguais."
 }
