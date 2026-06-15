@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "0.36.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.36.1/app-release.apk",
-  "notes": "OTA: download único + contagem regressiva visível de 3 segundos antes de abrir o instalador. Substitui o esquema antigo de baixar duas vezes (que ainda gerava reports de 'a segunda não rodou'). A pausa de 3s é o que o PackageInstaller realmente precisava para ficar pronto na Chromecast 3 / Google TV."
+  "versionCode": 44,
+  "versionName": "0.36.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.36.2/app-release.apk",
+  "notes": "Release de teste para validar o novo fluxo OTA: download único + contagem regressiva de 3 segundos antes de abrir o instalador. Substitui o esquema antigo de baixar duas vezes."
 }
