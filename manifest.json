@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "0.36.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.36.0/app-release.apk",
-  "notes": "Players de Filmes e Séries: menu de proporção expandido para igualar o IPTV Smarters. O botão agora cicla AJUSTAR → ESTICAR → ZOOM → 16:9 → 4:3 → 18:9 → 21:9 → 2.35:1 → 1.85:1. As proporções fixas sobrescrevem o aspect ratio que o servidor envia — útil quando o stream declara errado (caso comum em IPTV) e os 3 modos nativos saem idênticos."
+  "versionCode": 43,
+  "versionName": "0.36.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.36.1/app-release.apk",
+  "notes": "OTA: download único + contagem regressiva visível de 3 segundos antes de abrir o instalador. Substitui o esquema antigo de baixar duas vezes (que ainda gerava reports de 'a segunda não rodou'). A pausa de 3s é o que o PackageInstaller realmente precisava para ficar pronto na Chromecast 3 / Google TV."
 }
