@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "0.38.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.38.1/app-release.apk",
-  "notes": "Bump de versão para re-validar o fluxo OTA estável. Mesmo código da v0.38.0."
+  "versionCode": 52,
+  "versionName": "0.38.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.38.2/app-release.apk",
+  "notes": "Bump de versão para re-validar OTA. Mesmo código da v0.38.0."
 }
