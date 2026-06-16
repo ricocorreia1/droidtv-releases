@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "0.38.4",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.38.4/app-release.apk",
-  "notes": "Bump de versão. Mesmo código da v0.38.3 (fix do modal por trás da Ajuda)."
+  "versionCode": 55,
+  "versionName": "0.38.5",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.38.5/app-release.apk",
+  "notes": "Bump de versão para testes OTA. Mesmo código da v0.38.3."
 }
