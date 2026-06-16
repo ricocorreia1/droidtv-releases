@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "0.37.3",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.37.3/app-release.apk",
-  "notes": "Release de teste do fluxo OTA limpo (sem retry concorrente). Mesmo código da v0.37.2, apenas versionCode bumpado para 48."
+  "versionCode": 49,
+  "versionName": "0.37.4",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.37.4/app-release.apk",
+  "notes": "OTA: logs ricos para diagnosticar por que o ciclo automático não está disparando o 2º download na TV. Mesmo comportamento da v0.37.3."
 }
