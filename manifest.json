@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "0.38.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.38.2/app-release.apk",
-  "notes": "Bump de versão para re-validar OTA. Mesmo código da v0.38.0."
+  "versionCode": 53,
+  "versionName": "0.38.3",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.38.3/app-release.apk",
+  "notes": "OTA: traz a tela inicial para a frente antes de abrir o instalador. Se você estava na Ajuda (ou qualquer outra tela) quando o download terminou, o app puxa a Home para o topo e só então chama o install — o modal aparece em cima, não atrás da Ajuda."
 }
