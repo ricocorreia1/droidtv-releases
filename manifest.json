@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "0.38.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.38.0/app-release.apk",
-  "notes": "Versão estável. Fluxo OTA validado: você clica 'Baixar e instalar' uma única vez, o app baixa, espera 2 segundos, abre o instalador, e a atualização completa em uma só tentativa. Se em algum aparelho o modal não aparecer na primeira, o app refaz todo o ciclo automaticamente sem você precisar mexer."
+  "versionCode": 51,
+  "versionName": "0.38.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.38.1/app-release.apk",
+  "notes": "Bump de versão para re-validar o fluxo OTA estável. Mesmo código da v0.38.0."
 }
