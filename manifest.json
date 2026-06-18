@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "0.40.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.40.0/app-release.apk",
-  "notes": "Mini-player: logo + canal + programa atual no canto superior esquerdo. Vistos recentemente (Filmes e Séries) só registra quando você dá play, e long-press num card permite remover. Ajuda → Verificar atualização agora usa o mesmo popup de 2 etapas."
+  "versionCode": 58,
+  "versionName": "0.40.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.40.1/app-release.apk",
+  "notes": "Bump de versão para testes. Mesmo código da v0.40.0."
 }
