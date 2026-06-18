@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "0.38.5",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.38.5/app-release.apk",
-  "notes": "Bump de versão para testes OTA. Mesmo código da v0.38.3."
+  "versionCode": 56,
+  "versionName": "0.39.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.39.0/app-release.apk",
+  "notes": "Busca em Filmes e Séries: ao voltar do detalhe preserva os resultados da pesquisa (antes voltava para as categorias). Histórico de pesquisas recentes como chips horizontais — clique repete a busca, long-press abre menu Excluir / Limpar tudo."
 }
