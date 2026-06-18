@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "0.41.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.41.0/app-release.apk",
-  "notes": "OTA: sempre faz dois downloads automáticos consecutivos antes de abrir o instalador, sem checagem condicional. Mini-player: corrigida a piscada do logo ao trocar de canal."
+  "versionCode": 60,
+  "versionName": "0.41.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.41.1/app-release.apk",
+  "notes": "Bump de versão para teste do duplo download. Mesmo código da v0.41.0."
 }
