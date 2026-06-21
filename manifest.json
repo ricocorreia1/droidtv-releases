@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "0.43.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.43.2/app-release.apk",
-  "notes": "Mini-player ao Vivo: removida a piscada do HUD de identificação (logo + nome do canal) que aparecia após a animação de minimizar."
+  "versionCode": 65,
+  "versionName": "0.43.3",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.43.3/app-release.apk",
+  "notes": "Mini-player ao Vivo: nova tentativa de eliminar a piscada ao minimizar. Mini view começa transparente e faz fade-in quando o decoder renderiza o primeiro frame."
 }
