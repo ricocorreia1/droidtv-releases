@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "0.43.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.43.1/app-release.apk",
-  "notes": "UI: removida a moldura quadrada com pontas que aparecia ao redor de itens focados na Ajuda, Configurações e listas. Era um ripple retangular do Android pintando por cima do card arredondado."
+  "versionCode": 64,
+  "versionName": "0.43.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.43.2/app-release.apk",
+  "notes": "Mini-player ao Vivo: removida a piscada do HUD de identificação (logo + nome do canal) que aparecia após a animação de minimizar."
 }
