@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "0.41.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.41.1/app-release.apk",
-  "notes": "Bump de versão para teste do duplo download. Mesmo código da v0.41.0."
+  "versionCode": 61,
+  "versionName": "0.42.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.42.0/app-release.apk",
+  "notes": "Players: relógio HH:mm (24h) nos HUDs de TV ao Vivo (fullscreen), Filmes e Séries. Configurações → Ajustes do Player tem novo toggle 'Relógio fixo na TV ao Vivo' (desativado por padrão) que mantém o horário visível em fullscreen mesmo com o HUD escondido."
 }
