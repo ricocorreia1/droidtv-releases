@@ -1,6 +1,6 @@
 {
-  "versionCode": 69,
-  "versionName": "0.46.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.46.0/app-release.apk",
-  "notes": "Mini-player ao Vivo: HUD flutuante (logo + nome do canal + programa atual) volta para o canto superior esquerdo. Aparece junto com o vídeo no fim da animação, sem flash preto — apoiado na capa congelada da v0.45.0."
+  "versionCode": 70,
+  "versionName": "0.47.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.47.0/app-release.apk",
+  "notes": "Mini-player ao Vivo: HUD do canto superior esquerdo ficou menor (logo 20dp, texto 10sp) e o nome+programa agora rola horizontalmente (marquee) quando não cabe."
 }
