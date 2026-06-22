@@ -1,6 +1,6 @@
 {
-  "versionCode": 67,
-  "versionName": "0.44.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.44.0/app-release.apk",
-  "notes": "Revertido o HUD flutuante (logo + nome do canal + programa) no mini-player ao vivo. As tentativas de mascarar a piscada que ele causava acabaram piorando a transição — voltamos ao comportamento anterior à v0.40.0 nessa área."
+  "versionCode": 68,
+  "versionName": "0.45.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.45.0/app-release.apk",
+  "notes": "OTA reescrito para usar PackageInstaller.Session (mesmo padrão do SmartTube): um único download, sem retry, sem double-download. Sistema mostra o diálogo de confirmação por conta própria. Animação de minimizar do TV ao vivo mantém o último frame visível como capa enquanto o mini player começa a renderizar — sem flash preto."
 }
