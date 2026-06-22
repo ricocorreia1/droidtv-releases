@@ -1,6 +1,6 @@
 {
-  "versionCode": 72,
-  "versionName": "0.48.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.1/app-release.apk",
-  "notes": "Ajuda: ao apertar ENTER em um tópico, o seletor agora pula para o botão de ação do detalhe (ex.: Abrir, Verificar agora) quando ele existe."
+  "versionCode": 73,
+  "versionName": "0.48.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.2/app-release.apk",
+  "notes": "Live: corrigido foco indo parar no botão Voltar ao sair do player em tela cheia mais de uma vez."
 }
