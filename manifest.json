@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "0.43.3",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.43.3/app-release.apk",
-  "notes": "Mini-player ao Vivo: nova tentativa de eliminar a piscada ao minimizar. Mini view começa transparente e faz fade-in quando o decoder renderiza o primeiro frame."
+  "versionCode": 66,
+  "versionName": "0.43.4",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.43.4/app-release.apk",
+  "notes": "Mini-player ao Vivo: o overlay fullscreen agora segura o último frame congelado até o mini começar a renderizar (setKeepContentOnPlayerReset + onRenderedFirstFrame), eliminando o flash preto entre o fim da animação e o vídeo aparecer no mini."
 }
