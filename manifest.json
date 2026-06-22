@@ -1,6 +1,6 @@
 {
-  "versionCode": 71,
-  "versionName": "0.48.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.0/app-release.apk",
-  "notes": "Aviso 'Atualizado para vN' explicando a otimização do Android na primeira abertura. Ajuda reordenada (Verificar atualização vai para o fim). Relógio fixo do TV ao Vivo com fundo mais transparente. HUD do mini-player ocupa toda a largura do mini."
+  "versionCode": 72,
+  "versionName": "0.48.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.1/app-release.apk",
+  "notes": "Ajuda: ao apertar ENTER em um tópico, o seletor agora pula para o botão de ação do detalhe (ex.: Abrir, Verificar agora) quando ele existe."
 }
