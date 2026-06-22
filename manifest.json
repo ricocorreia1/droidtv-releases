@@ -1,6 +1,6 @@
 {
-  "versionCode": 70,
-  "versionName": "0.47.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.47.0/app-release.apk",
-  "notes": "Mini-player ao Vivo: HUD do canto superior esquerdo ficou menor (logo 20dp, texto 10sp) e o nome+programa agora rola horizontalmente (marquee) quando não cabe."
+  "versionCode": 71,
+  "versionName": "0.48.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.0/app-release.apk",
+  "notes": "Aviso 'Atualizado para vN' explicando a otimização do Android na primeira abertura. Ajuda reordenada (Verificar atualização vai para o fim). Relógio fixo do TV ao Vivo com fundo mais transparente. HUD do mini-player ocupa toda a largura do mini."
 }
