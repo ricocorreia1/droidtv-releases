@@ -1,6 +1,6 @@
 {
-  "versionCode": 73,
-  "versionName": "0.48.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.2/app-release.apk",
-  "notes": "Live: corrigido foco indo parar no botão Voltar ao sair do player em tela cheia mais de uma vez."
+  "versionCode": 74,
+  "versionName": "0.48.3",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.3/app-release.apk",
+  "notes": "Live: marquee do mini-player só roda quando o texto não cabe. Corrige travadas em emuladores como o Windows Subsystem for Android."
 }
