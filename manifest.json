@@ -1,6 +1,6 @@
 {
-  "versionCode": 74,
-  "versionName": "0.48.3",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.3/app-release.apk",
-  "notes": "Live: marquee do mini-player só roda quando o texto não cabe. Corrige travadas em emuladores como o Windows Subsystem for Android."
+  "versionCode": 75,
+  "versionName": "0.48.4",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.4/app-release.apk",
+  "notes": "Live: corrigido fantasma do player ao minimizar no Windows Subsystem for Android e outros emuladores."
 }
