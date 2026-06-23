@@ -1,6 +1,6 @@
 {
-  "versionCode": 75,
-  "versionName": "0.48.4",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.4/app-release.apk",
-  "notes": "Live: corrigido fantasma do player ao minimizar no Windows Subsystem for Android e outros emuladores."
+  "versionCode": 76,
+  "versionName": "0.48.5",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.5/app-release.apk",
+  "notes": "Live: melhora detecção do Windows Subsystem for Android e faz recuperação silenciosa quando o decodificador falha após minimizar/expandir."
 }
