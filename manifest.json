@@ -1,6 +1,6 @@
 {
-  "versionCode": 77,
-  "versionName": "0.48.6",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.6/app-release.apk",
-  "notes": "Live: corrige player duplicado/travado ao minimizar em emuladores (Windows Subsystem for Android). Player passa a usar TextureView."
+  "versionCode": 78,
+  "versionName": "0.48.7",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.7/app-release.apk",
+  "notes": "UI: foco do D-pad agora é branco (não confunde mais com o azul de canal/filme atual). Logs de suporte rolam pelo controle remoto."
 }
