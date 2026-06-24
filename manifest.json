@@ -1,6 +1,6 @@
 {
-  "versionCode": 79,
-  "versionName": "0.48.8",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.8/app-release.apk",
-  "notes": "Live: corrige regressão onde ao sair do tela cheia o foco ficava no mini-player em vez de voltar pro canal selecionado."
+  "versionCode": 80,
+  "versionName": "0.48.9",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.48.9/app-release.apk",
+  "notes": "Suporte: botões Apagar/Exportar movidos pro topo da tela (junto com o título), pra que dê pra usar sem rolar a log."
 }
