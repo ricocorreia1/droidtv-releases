@@ -1,6 +1,6 @@
 {
-  "versionCode": 84,
-  "versionName": "0.50.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.50.1/app-release.apk",
-  "notes": "QR sempre visível no add-profile, botão olho pra ver senha no cel e refazer QR automático se der erro no login."
+  "versionCode": 85,
+  "versionName": "0.51.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.51.0/app-release.apk",
+  "notes": "Fase 2 do pareamento por QR: cel com Droid TV instalado envia o perfil pra TV com 1 toque, sem digitar nada."
 }
