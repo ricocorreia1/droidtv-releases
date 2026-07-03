@@ -1,6 +1,6 @@
 {
-  "versionCode": 81,
-  "versionName": "0.49.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.49.0/app-release.apk",
-  "notes": "Atualizador: avisa antes de instalar em celulares Samsung com Bloqueio Automático e mostra mensagem clara se a instalação for bloqueada."
+  "versionCode": 82,
+  "versionName": "0.49.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.49.1/app-release.apk",
+  "notes": "Home: 20 filmes/séries recém-adicionados. Históricos guardam 100 itens. Celulares: teclado abre direto no campo em portrait."
 }
