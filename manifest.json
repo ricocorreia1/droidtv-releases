@@ -1,6 +1,6 @@
 {
-  "versionCode": 85,
-  "versionName": "0.51.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.51.0/app-release.apk",
-  "notes": "Fase 2 do pareamento por QR: cel com Droid TV instalado envia o perfil pra TV com 1 toque, sem digitar nada."
+  "versionCode": 86,
+  "versionName": "0.51.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.51.1/app-release.apk",
+  "notes": "QR de pareamento abre o Droid TV direto no cel (quando instalado); fallback pro navegador se não estiver."
 }
