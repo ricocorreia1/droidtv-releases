@@ -1,6 +1,6 @@
 {
-  "versionCode": 82,
-  "versionName": "0.49.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.49.1/app-release.apk",
-  "notes": "Home: 20 filmes/séries recém-adicionados. Históricos guardam 100 itens. Celulares: teclado abre direto no campo em portrait."
+  "versionCode": 83,
+  "versionName": "0.50.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.50.0/app-release.apk",
+  "notes": "Login por QR code: TV mostra um QR, celular escaneia e envia usuário/senha via navegador. Fim do porre de digitar na TV."
 }
