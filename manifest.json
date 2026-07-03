@@ -1,6 +1,6 @@
 {
-  "versionCode": 83,
-  "versionName": "0.50.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.50.0/app-release.apk",
-  "notes": "Login por QR code: TV mostra um QR, celular escaneia e envia usuário/senha via navegador. Fim do porre de digitar na TV."
+  "versionCode": 84,
+  "versionName": "0.50.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.50.1/app-release.apk",
+  "notes": "QR sempre visível no add-profile, botão olho pra ver senha no cel e refazer QR automático se der erro no login."
 }
