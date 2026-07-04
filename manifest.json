@@ -1,6 +1,6 @@
 {
-  "versionCode": 91,
-  "versionName": "0.52.3",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.52.3/app-release.apk",
-  "notes": "Histórico de canais sincronizado agora intercala em vez de empilhar no fim — último canal visto em cada aparelho fica no topo."
+  "versionCode": 92,
+  "versionName": "0.52.4",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.52.4/app-release.apk",
+  "notes": "Ajuda atualizada com QR de login, sincronização entre aparelhos e chips de pesquisas recentes."
 }
