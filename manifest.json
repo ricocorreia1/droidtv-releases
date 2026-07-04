@@ -1,6 +1,6 @@
 {
-  "versionCode": 90,
-  "versionName": "0.52.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.52.2/app-release.apk",
-  "notes": "Sincronização entre aparelhos casa perfis por URL+usuário, então progresso e históricos aparecem no perfil certo."
+  "versionCode": 91,
+  "versionName": "0.52.3",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.52.3/app-release.apk",
+  "notes": "Histórico de canais sincronizado agora intercala em vez de empilhar no fim — último canal visto em cada aparelho fica no topo."
 }
