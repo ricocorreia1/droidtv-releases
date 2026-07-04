@@ -1,6 +1,6 @@
 {
-  "versionCode": 92,
-  "versionName": "0.52.4",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.52.4/app-release.apk",
-  "notes": "Ajuda atualizada com QR de login, sincronização entre aparelhos e chips de pesquisas recentes."
+  "versionCode": 93,
+  "versionName": "0.53.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.53.0/app-release.apk",
+  "notes": "Recomendações do Droid TV agora aparecem direto na Home do Android TV com 4 canais espelhando os trilhos do app. Clique num card e cai direto no player retomando de onde parou."
 }
