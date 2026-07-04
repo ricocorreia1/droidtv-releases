@@ -1,6 +1,6 @@
 {
-  "versionCode": 87,
-  "versionName": "0.51.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.51.2/app-release.apk",
-  "notes": "QR de pareamento abre um menu no cel com 3 opções: usar o app, formulário ou baixar."
+  "versionCode": 88,
+  "versionName": "0.52.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.52.0/app-release.apk",
+  "notes": "Sincronização entre aparelhos via Wi-Fi: junta progresso, históricos, canais ocultos, categorias e configs com um PIN de 4 dígitos."
 }
