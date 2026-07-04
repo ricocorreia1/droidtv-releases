@@ -1,6 +1,6 @@
 {
-  "versionCode": 95,
-  "versionName": "0.53.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.53.2/app-release.apk",
-  "notes": "Última tentativa técnica pra Watch Next em Chromecast com Google TV: contentId + lastEngagementTime nos programs."
+  "versionCode": 96,
+  "versionName": "0.53.3",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.53.3/app-release.apk",
+  "notes": "Favicon nas páginas do pareamento QR — identidade do Droid TV visível na aba do navegador do celular."
 }
