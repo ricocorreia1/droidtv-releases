@@ -1,6 +1,6 @@
 {
-  "versionCode": 88,
-  "versionName": "0.52.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.52.0/app-release.apk",
-  "notes": "Sincronização entre aparelhos via Wi-Fi: junta progresso, históricos, canais ocultos, categorias e configs com um PIN de 4 dígitos."
+  "versionCode": 89,
+  "versionName": "0.52.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.52.1/app-release.apk",
+  "notes": "Corrige erro no handshake da sincronização entre aparelhos (R8 estava obfuscando classes de payload)."
 }
