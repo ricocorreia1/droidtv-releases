@@ -1,6 +1,6 @@
 {
-  "versionCode": 97,
-  "versionName": "0.53.4",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.53.4/app-release.apk",
-  "notes": "Favicon do pareamento QR agora é o logo real do Droid TV."
+  "versionCode": 98,
+  "versionName": "0.53.5",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.53.5/app-release.apk",
+  "notes": "Canais na Home: requestChannelBrowsable no UI thread — pode fazer os canais aparecerem em Personalizar canais."
 }
