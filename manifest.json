@@ -1,6 +1,6 @@
 {
-  "versionCode": 89,
-  "versionName": "0.52.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.52.1/app-release.apk",
-  "notes": "Corrige erro no handshake da sincronização entre aparelhos (R8 estava obfuscando classes de payload)."
+  "versionCode": 90,
+  "versionName": "0.52.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.52.2/app-release.apk",
+  "notes": "Sincronização entre aparelhos casa perfis por URL+usuário, então progresso e históricos aparecem no perfil certo."
 }
