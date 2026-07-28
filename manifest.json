@@ -1,6 +1,6 @@
 {
-  "versionCode": 98,
-  "versionName": "0.53.5",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.53.5/app-release.apk",
-  "notes": "Canais na Home: requestChannelBrowsable no UI thread — pode fazer os canais aparecerem em Personalizar canais."
+  "versionCode": 99,
+  "versionName": "0.53.6",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.53.6/app-release.apk",
+  "notes": "Card 'Plano expira em X' atualiza sozinho ao voltar pra Home (throttle de 6h). Renovar plano faz o valor atualizar sem precisar re-adicionar perfil."
 }
