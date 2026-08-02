@@ -1,6 +1,6 @@
 {
-  "versionCode": 100,
-  "versionName": "0.53.7",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.53.7/app-release.apk",
-  "notes": "Relógio no HUD do player de Filmes e Séries agora avança sozinho a cada 30s."
+  "versionCode": 101,
+  "versionName": "0.54.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.54.0/app-release.apk",
+  "notes": "Busca: resultados com o termo como palavra isolada vêm primeiro; substring dentro de palavras maiores fica no fim. Limite aumentado pra 200."
 }
