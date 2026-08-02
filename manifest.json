@@ -1,6 +1,6 @@
 {
-  "versionCode": 101,
-  "versionName": "0.54.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.54.0/app-release.apk",
-  "notes": "Busca: resultados com o termo como palavra isolada vêm primeiro; substring dentro de palavras maiores fica no fim. Limite aumentado pra 200."
+  "versionCode": 102,
+  "versionName": "0.54.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.54.1/app-release.apk",
+  "notes": "Busca: rank agora acontece no SQL (match perfeito não some por LIMIT) e busca em Filmes/Séries dentro de uma categoria específica só olha aquela categoria."
 }
