@@ -1,6 +1,6 @@
 {
-  "versionCode": 103,
-  "versionName": "0.54.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.54.2/app-release.apk",
-  "notes": "Busca: seção Programas (EPG) agora usa o mesmo rank SQL — completa a busca global melhorada."
+  "versionCode": 104,
+  "versionName": "0.55.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.55.0/app-release.apk",
+  "notes": "Auto-complete de busca em Filmes e Séries: chips clicáveis com títulos que começam com o texto — toque abre o filme direto."
 }
