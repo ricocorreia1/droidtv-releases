@@ -1,6 +1,6 @@
 {
-  "versionCode": 102,
-  "versionName": "0.54.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.54.1/app-release.apk",
-  "notes": "Busca: rank agora acontece no SQL (match perfeito não some por LIMIT) e busca em Filmes/Séries dentro de uma categoria específica só olha aquela categoria."
+  "versionCode": 103,
+  "versionName": "0.54.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.54.2/app-release.apk",
+  "notes": "Busca: seção Programas (EPG) agora usa o mesmo rank SQL — completa a busca global melhorada."
 }
