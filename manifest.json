@@ -1,6 +1,6 @@
 {
-  "versionCode": 104,
-  "versionName": "0.55.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.55.0/app-release.apk",
-  "notes": "Auto-complete de busca em Filmes e Séries: chips clicáveis com títulos que começam com o texto — toque abre o filme direto."
+  "versionCode": 105,
+  "versionName": "0.56.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.56.0/app-release.apk",
+  "notes": "Botão de saída de áudio no HUD dos players — toque no fone abre a lista de dispositivos Bluetooth pareados sem sair do app."
 }
