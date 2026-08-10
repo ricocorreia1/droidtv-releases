@@ -1,6 +1,6 @@
 {
-  "versionCode": 108,
-  "versionName": "0.56.3",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.56.3/app-release.apk",
-  "notes": "Botão de fone abre direto a tela de Bluetooth do sistema em qualquer aparelho — antes o cel abria Cast por engano."
+  "versionCode": 110,
+  "versionName": "0.56.5",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.56.5/app-release.apk",
+  "notes": "Botão de fone no Chromecast com Google TV agora abre a tela certa (Controles remotos e acessórios) — antes era sequestrado pelo Google Cast."
 }
