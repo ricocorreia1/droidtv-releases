@@ -1,6 +1,6 @@
 {
-  "versionCode": 107,
-  "versionName": "0.56.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.56.2/app-release.apk",
-  "notes": "Botão de fone: cascata de intents e package visibility pra funcionar em Chromecast com Google TV, onde o Intent padrão de Bluetooth Settings não respondia."
+  "versionCode": 108,
+  "versionName": "0.56.3",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.56.3/app-release.apk",
+  "notes": "Botão de fone abre direto a tela de Bluetooth do sistema em qualquer aparelho — antes o cel abria Cast por engano."
 }
