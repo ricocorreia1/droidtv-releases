@@ -1,6 +1,6 @@
 {
-  "versionCode": 106,
-  "versionName": "0.56.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.56.1/app-release.apk",
-  "notes": "Botão de fone no HUD: em Android TV abre direto a tela de Bluetooth do sistema (onde os fones pareados aparecem)."
+  "versionCode": 107,
+  "versionName": "0.56.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.56.2/app-release.apk",
+  "notes": "Botão de fone: cascata de intents e package visibility pra funcionar em Chromecast com Google TV, onde o Intent padrão de Bluetooth Settings não respondia."
 }
