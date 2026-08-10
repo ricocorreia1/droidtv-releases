@@ -1,6 +1,6 @@
 {
-  "versionCode": 105,
-  "versionName": "0.56.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.56.0/app-release.apk",
-  "notes": "Botão de saída de áudio no HUD dos players — toque no fone abre a lista de dispositivos Bluetooth pareados sem sair do app."
+  "versionCode": 106,
+  "versionName": "0.56.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.56.1/app-release.apk",
+  "notes": "Botão de fone no HUD: em Android TV abre direto a tela de Bluetooth do sistema (onde os fones pareados aparecem)."
 }
