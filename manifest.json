@@ -1,6 +1,6 @@
 {
-  "versionCode": 110,
-  "versionName": "0.56.5",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.56.5/app-release.apk",
-  "notes": "Botão de fone no Chromecast com Google TV agora abre a tela certa (Controles remotos e acessórios) — antes era sequestrado pelo Google Cast."
+  "versionCode": 111,
+  "versionName": "0.57.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.57.0/app-release.apk",
+  "notes": "Agrupamento de canais por qualidade (SD/HD/FHD/4K) — ative em Configurações → Ajustes do Player."
 }
