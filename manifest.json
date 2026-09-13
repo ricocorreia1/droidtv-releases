@@ -1,6 +1,6 @@
 {
-  "versionCode": 115,
-  "versionName": "0.57.4",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.57.4/app-release.apk",
-  "notes": "Agrupamento: nome sempre sem HD/FHD/SD (inclusive canais solo), D-pad nos chips anda sequencial e o HUD não some enquanto você navega."
+  "versionCode": 116,
+  "versionName": "0.57.5",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.57.5/app-release.apk",
+  "notes": "Agrupamento: chips de qualidade agora aparecem no HUD também quando você abre o canal via HISTÓRICO."
 }
