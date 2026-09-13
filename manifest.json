@@ -1,6 +1,6 @@
 {
-  "versionCode": 113,
-  "versionName": "0.57.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.57.2/app-release.apk",
-  "notes": "Agrupamento: chips do HUD com scroll horizontal, histórico agrupado, e canal representante prefere rótulo limpo (sem H265/²)."
+  "versionCode": 114,
+  "versionName": "0.57.3",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.57.3/app-release.apk",
+  "notes": "Agrupamento: nome do canal na lista e no histórico agora fica limpo (só 'Sony Channel', sem FHD/HD/etc). Qualidade fica no chip do HUD."
 }
