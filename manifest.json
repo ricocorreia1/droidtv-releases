@@ -1,6 +1,6 @@
 {
-  "versionCode": 118,
-  "versionName": "0.58.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.58.1/app-release.apk",
-  "notes": "Painel de qualidade abre com DPAD_RIGHT direto no fullscreen (sem precisar do HUD), simétrico ao DPAD_LEFT dos canais."
+  "versionCode": 119,
+  "versionName": "0.58.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.58.2/app-release.apk",
+  "notes": "Qualidade escolhida no painel lateral direito agora persiste por canal — sobrevive fechar/abrir/atualizar."
 }
