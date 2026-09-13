@@ -1,6 +1,6 @@
 {
-  "versionCode": 116,
-  "versionName": "0.57.5",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.57.5/app-release.apk",
-  "notes": "Agrupamento: chips de qualidade agora aparecem no HUD também quando você abre o canal via HISTÓRICO."
+  "versionCode": 117,
+  "versionName": "0.58.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.58.0/app-release.apk",
+  "notes": "Qualidade agora vira menu lateral direito do fullscreen — DPAD_RIGHT no HUD abre. HUD principal ficou mais limpo."
 }
