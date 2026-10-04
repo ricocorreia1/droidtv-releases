@@ -1,6 +1,6 @@
 {
-  "versionCode": 119,
-  "versionName": "0.58.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.58.2/app-release.apk",
-  "notes": "Qualidade escolhida no painel lateral direito agora persiste por canal — sobrevive fechar/abrir/atualizar."
+  "versionCode": 120,
+  "versionName": "0.59.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.59.0/app-release.apk",
+  "notes": "Segurança: sincronização só troca dados depois do Confirmar, pareamento por QR aceita apenas rede local, links externos respeitam o PIN do perfil. Performance: menos engasgos na TV ao vivo e Home mais leve."
 }
