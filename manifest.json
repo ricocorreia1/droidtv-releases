@@ -1,6 +1,6 @@
 {
-  "versionCode": 121,
-  "versionName": "0.59.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.59.1/app-release.apk",
-  "notes": "Botão de fone no player: na TV, procura a tela de Controles remotos e acessórios direto no sistema."
+  "versionCode": 122,
+  "versionName": "0.59.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.59.2/app-release.apk",
+  "notes": "TV ao vivo: o seletor do controle volta a aparecer nos botões do HUD. Botão de fone na TV abre um painel com seus fones pareados e a opção de parear um novo."
 }
