@@ -1,6 +1,6 @@
 {
-  "versionCode": 120,
-  "versionName": "0.59.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.59.0/app-release.apk",
-  "notes": "Segurança: sincronização só troca dados depois do Confirmar, pareamento por QR aceita apenas rede local, links externos respeitam o PIN do perfil. Performance: menos engasgos na TV ao vivo e Home mais leve."
+  "versionCode": 121,
+  "versionName": "0.59.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.59.1/app-release.apk",
+  "notes": "Botão de fone no player: na TV, procura a tela de Controles remotos e acessórios direto no sistema."
 }
