@@ -1,6 +1,6 @@
 {
-  "versionCode": 123,
-  "versionName": "0.59.3",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.59.3/app-release.apk",
-  "notes": "TV ao vivo: o cursor percorre todos os botões do HUD. A qualidade escolhida por canal agora vale também pelo Histórico e ao trocar de canal. Filmes e séries: relógio não cobre mais o botão de fone."
+  "versionCode": 124,
+  "versionName": "0.60.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.60.0/app-release.apk",
+  "notes": "Sincronismo automático: com o app aberto, os aparelhos da mesma Wi-Fi com o mesmo perfil trocam sozinhos o progresso de filmes e episódios, os históricos e os agendamentos. Sem PIN e sem confirmação."
 }
