@@ -1,6 +1,6 @@
 {
-  "versionCode": 125,
-  "versionName": "0.60.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.60.1/app-release.apk",
-  "notes": "Painel de fones na TV: mostra quem está conectado, tenta conectar o fone desconectado e, se a TV não deixar, explica o que fazer."
+  "versionCode": 126,
+  "versionName": "0.60.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.60.2/app-release.apk",
+  "notes": "HUDs: ao entrar num canal, filme ou episódio, o cursor já aparece nos botões e o direcional anda direto."
 }
