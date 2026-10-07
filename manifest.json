@@ -1,6 +1,6 @@
 {
-  "versionCode": 124,
-  "versionName": "0.60.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.60.0/app-release.apk",
-  "notes": "Sincronismo automático: com o app aberto, os aparelhos da mesma Wi-Fi com o mesmo perfil trocam sozinhos o progresso de filmes e episódios, os históricos e os agendamentos. Sem PIN e sem confirmação."
+  "versionCode": 125,
+  "versionName": "0.60.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.60.1/app-release.apk",
+  "notes": "Painel de fones na TV: mostra quem está conectado, tenta conectar o fone desconectado e, se a TV não deixar, explica o que fazer."
 }
