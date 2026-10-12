@@ -1,6 +1,6 @@
 {
-  "versionCode": 126,
-  "versionName": "0.60.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.60.2/app-release.apk",
-  "notes": "HUDs: ao entrar num canal, filme ou episódio, o cursor já aparece nos botões e o direcional anda direto."
+  "versionCode": 127,
+  "versionName": "0.60.3",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.60.3/app-release.apk",
+  "notes": "Atualização automática de canais, filmes, séries e guia agora funciona com o app aberto por dias na TV."
 }
