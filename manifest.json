@@ -1,6 +1,6 @@
 {
-  "versionCode": 128,
-  "versionName": "0.60.4",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.60.4/app-release.apk",
-  "notes": "Continuar assistindo volta a aparecer na tela inicial da TV e em launchers como o Projectivy."
+  "versionCode": 129,
+  "versionName": "0.61.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.61.0/app-release.apk",
+  "notes": "TV ao vivo: se um canal agrupado falhar 5 vezes seguidas, troca sozinho para outra qualidade. No histórico, segurar um canal agora permite remover do histórico, não só ocultar."
 }
