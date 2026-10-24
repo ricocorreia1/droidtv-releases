@@ -1,6 +1,6 @@
 {
-  "versionCode": 131,
-  "versionName": "0.61.2",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.61.2/app-release.apk",
-  "notes": "Cada categoria de TV ao vivo mostra quantos canais tem. Agrupado conta 1 por grupo; separado conta todos."
+  "versionCode": 132,
+  "versionName": "0.62.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.62.0/app-release.apk",
+  "notes": "Continuar assistindo preenche o espaço livre da fileira com mais um card quando cabe. HISTÓRICO também mostra contador de canais."
 }
