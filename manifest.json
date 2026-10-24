@@ -1,6 +1,6 @@
 {
-  "versionCode": 129,
-  "versionName": "0.61.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.61.0/app-release.apk",
-  "notes": "TV ao vivo: se um canal agrupado falhar 5 vezes seguidas, troca sozinho para outra qualidade. No histórico, segurar um canal agora permite remover do histórico, não só ocultar."
+  "versionCode": 130,
+  "versionName": "0.61.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.61.1/app-release.apk",
+  "notes": "Ao remover um canal do histórico, o cursor fica no canal anterior da lista, em vez de voltar ao início."
 }
