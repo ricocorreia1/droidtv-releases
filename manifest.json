@@ -1,6 +1,6 @@
 {
-  "versionCode": 130,
-  "versionName": "0.61.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.61.1/app-release.apk",
-  "notes": "Ao remover um canal do histórico, o cursor fica no canal anterior da lista, em vez de voltar ao início."
+  "versionCode": 131,
+  "versionName": "0.61.2",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.61.2/app-release.apk",
+  "notes": "Cada categoria de TV ao vivo mostra quantos canais tem. Agrupado conta 1 por grupo; separado conta todos."
 }
