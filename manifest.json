@@ -1,6 +1,6 @@
 {
-  "versionCode": 134,
-  "versionName": "0.63.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.63.0/app-release.apk",
-  "notes": "Visual pra TV: o item focado cresce em vez de encolher, botões azuis ganham borda branca quando focados, textos pequenos passam a ter no mínimo 12sp (detalhes da TV ao Vivo e guia EPG mais legíveis), botão Assistir sobe pra logo abaixo da nota do filme, cards da Home menores pra mostrar os pôsteres sem rolar e colunas da TV ao Vivo com mais espaço pro player."
+  "versionCode": 135,
+  "versionName": "0.63.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.63.1/app-release.apk",
+  "notes": "Correção: o card selecionado na Home não aparece mais com as bordas cortadas ao receber foco. Cards de linha inteira, como em Configurações, crescem bem menos."
 }
