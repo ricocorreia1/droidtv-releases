@@ -1,6 +1,6 @@
 {
-  "versionCode": 135,
-  "versionName": "0.63.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.63.1/app-release.apk",
-  "notes": "Correção: o card selecionado na Home não aparece mais com as bordas cortadas ao receber foco. Cards de linha inteira, como em Configurações, crescem bem menos."
+  "versionCode": 136,
+  "versionName": "0.64.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.64.0/app-release.apk",
+  "notes": "Sinopse dos programas: ao passar o foco por um canal na tela Live, o painel mostra a sinopse do que está passando; os programas \"A seguir\" mostram a sinopse quando focados; e o HUD da tela cheia também exibe a sinopse."
 }
