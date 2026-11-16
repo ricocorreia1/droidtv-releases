@@ -1,6 +1,6 @@
 {
-  "versionCode": 138,
-  "versionName": "0.66.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.66.0/app-release.apk",
-  "notes": "Player em miniatura: com um canal, filme ou episódio em tela cheia, apertar Home (ou o novo botão de miniatura no HUD) encolhe o vídeo para uma janela flutuante que continua tocando por cima de outros apps, com botões de pausar e, na TV ao vivo, trocar de canal. Disponível em aparelhos com Android 8 ou superior que suportam janela flutuante."
+  "versionCode": 139,
+  "versionName": "0.66.1",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.66.1/app-release.apk",
+  "notes": "Correções do player em miniatura: na TV ao vivo o vídeo não aparece mais cortado dentro da janela flutuante, e nos players de filmes e séries o relógio não fica mais em cima do botão de miniatura."
 }
