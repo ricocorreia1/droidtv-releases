@@ -1,6 +1,6 @@
 {
-  "versionCode": 137,
-  "versionName": "0.65.0",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.65.0/app-release.apk",
-  "notes": "Filmes: a tela do filme mostra sinopse, elenco, diretor e gênero na hora, mesmo quando o servidor demora, e ganhou o botão Trailer quando há trailer disponível. TV ao vivo: o HUD da tela cheia mostra a qualidade real do sinal (4K, FHD, HD ou SD, e 60fps). A ficha dos filmes aparece após a próxima sincronização de filmes."
+  "versionCode": 138,
+  "versionName": "0.66.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.66.0/app-release.apk",
+  "notes": "Player em miniatura: com um canal, filme ou episódio em tela cheia, apertar Home (ou o novo botão de miniatura no HUD) encolhe o vídeo para uma janela flutuante que continua tocando por cima de outros apps, com botões de pausar e, na TV ao vivo, trocar de canal. Disponível em aparelhos com Android 8 ou superior que suportam janela flutuante."
 }
