@@ -1,6 +1,6 @@
 {
-  "versionCode": 139,
-  "versionName": "0.66.1",
-  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.66.1/app-release.apk",
-  "notes": "Correções do player em miniatura: na TV ao vivo o vídeo não aparece mais cortado dentro da janela flutuante, e nos players de filmes e séries o relógio não fica mais em cima do botão de miniatura."
+  "versionCode": 140,
+  "versionName": "0.67.0",
+  "url": "https://github.com/ricocorreia1/droidtv-releases/releases/download/v0.67.0/app-release.apk",
+  "notes": "Correções de segurança: a sincronização entre aparelhos ficou protegida (atualize todos os aparelhos para voltarem a sincronizar entre si); o PIN do perfil agora vale em todas as telas, inclusive ao reabrir o app e para editar ou excluir perfis; o controle parental também bloqueia conteúdo aberto por link; e o pareamento pelo celular mostra um código para conferir com a TV."
 }
